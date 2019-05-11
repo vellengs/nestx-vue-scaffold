@@ -1,0 +1,20 @@
+{
+  "name": "nestx-vue-scaffold",
+  "version": "0.0.1-alpha.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vellengs/nestx-vue-scaffold.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vellengs/nestx-vue-scaffold/issues"
+  },
+  "homepage": "https://github.com/vellengs/nestx-vue-scaffold#readme"
+}
