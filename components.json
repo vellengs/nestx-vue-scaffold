@@ -1,0 +1,3 @@
+{
+    "dashboard": "./src/views/dashboard/index.vue"
+}
